@@ -1,2 +1,2 @@
-# ziahalegua.gitub.io
+# ziahalegua.github.io
 Landing page
